@@ -1,3 +1,10 @@
+readline (8.2-1.4) unstable; urgency=medium
+
+  [ hudeng ]
+  * New upstream version 8.2-1.4
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 02 Feb 2023 17:54:24 +0800
+
 readline (8.1-2) unstable; urgency=medium
 
   * Apply upstream patch 001.
