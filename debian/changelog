@@ -1,3 +1,9 @@
+readline (8.2-3deepin1) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Mon, 21 Sep 2026 16:08:32 +0800
+
 readline (8.2-3) unstable; urgency=medium
 
   * Fix crash in rl_do_undo, taken from upstream. Closes: #1056314, #1037274.
